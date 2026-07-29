@@ -53,7 +53,8 @@ Watch the complete project demonstration here:
 
 Replace this link with your own video.
 
-```https://drive.google.com/file/d/1yoEwEsW4rXcT7XgXL24lLixgntC8bAHv/view?usp=sharing
+```
+https://drive.google.com/file/d/1yoEwEsW4rXcT7XgXL24lLixgntC8bAHv/view?usp=sharing
 ```
 
 Or upload your project video on GitHub and paste the link here.

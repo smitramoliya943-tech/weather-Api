@@ -22,7 +22,6 @@ body {
     transition: 0.5s;
 }
 
-/* Left */
 
 .left-section {
 
@@ -85,22 +84,16 @@ body {
 
 }
 
-/* Sidebar */
+
 
 .sidebar {
 
     width: 420px;
-
     backdrop-filter: blur(20px);
-
     background: rgba(120, 90, 70, .35);
-
     border-left: 1px solid rgba(255, 255, 255, .2);
-
     padding: 35px;
-
     color: #fff;
-
     display: flex;
     flex-direction: column;
 
@@ -116,39 +109,26 @@ body {
 .search-box input {
 
     flex: 1;
-
     background: transparent;
-
     border: none;
-
     border-bottom: 1px solid rgba(255, 255, 255, .5);
-
     outline: none;
-
     color: #fff;
-
     font-size: 16px;
-
     padding-bottom: 12px;
 
 }
 
 .search-box input::placeholder {
-
     color: #ddd;
 
 }
 
 .search-box button {
-
     width: 60px;
-
     border: none;
-
     background: #789267;
-
     color: white;
-
     cursor: pointer;
 
 }
@@ -172,7 +152,6 @@ body {
 .city-list p {
 
     cursor: pointer;
-
     color: #ddd;
 
 }
